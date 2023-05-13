@@ -1,0 +1,52 @@
+{
+  "topics" : [
+    {
+      "id": "1",
+      "name": "C#",
+      "subtopics" : [
+        {
+          "id": "1",
+          "name": "Visual studio IDE"
+        },
+        {
+          "id": "2",
+          "name": "FirstProgram"
+        },
+        {
+          "id": "3",
+          "name": "Peremennie"
+        },
+        {
+          "id": "4",
+          "name": "IF Else"
+        },
+        {
+          "id": "5",
+          "name": "For While"
+        },
+        {
+          "id": "6",
+          "name": "list, Dict"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "OOP",
+      "subtopics" : [
+        {
+          "id": "1",
+          "name": "Inkapsulasiya"
+        },
+        {
+          "id": "2",
+          "name": "Nasledie"
+        },
+        {
+          "id": "3",
+          "name": "Polimorfizm"
+        }
+      ]
+    }
+  ]
+}

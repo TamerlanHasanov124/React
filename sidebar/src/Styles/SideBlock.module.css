@@ -1,0 +1,46 @@
+
+.sublock p
+{
+    font-size: 15px;
+    margin: 2px;
+}
+
+.block
+{
+
+    text-align: center;
+    background-color: #3887f9;
+    width: 200px;
+    height: auto;
+    word-wrap: break-word;
+    color: white;
+    overflow: hidden;
+    transition: all 0.5s ease-out;
+}
+.sublock
+{
+    text-align: center;
+    background-color: #599bfa;
+    width: 200px;
+    height: auto;
+    word-wrap: break-word;
+    color: black;
+    overflow: hidden;
+    transition: all 0.2s ease-out;
+}
+
+.block:hover
+{
+    background-color: #599bfa;
+    cursor: pointer;
+
+}
+.sublock:hover
+{
+    background-color:#599bfa ;
+    color: white;
+
+}
+
+
+
